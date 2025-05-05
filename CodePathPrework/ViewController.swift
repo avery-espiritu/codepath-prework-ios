@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  CodePathPrework
 //
-//  Created by Avery Espiritu on 5/4/25.
+//  Created by Avery Espiritu on 5/3/25.
 //
 
 import UIKit
@@ -11,6 +11,16 @@ class ViewController: UIViewController {
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let randomColor = changeColor()
         view.backgroundColor = randomColor
+    }
+    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet weak var schoolLabel: UILabel!
+    @IBOutlet weak var jobLabel: UILabel!
+    
+    @IBAction func changeTextColor(_ sender: Any) {
+        let randomColor = changeColor()
+        nameLabel.textColor = randomColor
+        schoolLabel.textColor = randomColor
+        jobLabel.textColor = randomColor
     }
     
     func changeColor() -> UIColor{
