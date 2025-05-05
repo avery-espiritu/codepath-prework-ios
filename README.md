@@ -1,34 +1,43 @@
 # codepath-prework-ios
 Codepath prework project for IOS dev class
 
-# Prework - *Name of App Here*
+# Prework - *Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Avery Espiritu**
 
-**Name of your app** is an app that... [TODO] 
+**Color Changer** is an app that lets that displays the name, school, and dream job of the developer of this app, and allows the user change both the color of the background and the color of the text all of those aformentioned attributes.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Video Walkthrough]](https://i.imgur.com/798BSXf.gif).
 
 ## App Brainstorming (Step 4)
 
-
+1. Google Maps
+- Highlights best route for easy guidance and directions
+- Able to see street view for visualizing stops beforehand
+2. Goodnotes
+- Intuitive writing and drawing responses, making note taking easy
+- Able to easily import and export pages from notebooks
+3. Spotify
+- Can add songs to playlists
+- Able to favorite specfic songs 
+4. VS Code
+- Has built in terminal and compatibility with git
+- Easy to access extensions for making coding more efficient
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not run into any challenges.
 
 ## License
 
